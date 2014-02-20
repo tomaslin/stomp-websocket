@@ -1,0 +1,23 @@
+{
+  "name": "stomp-websocket",
+  "main": "./lib/stomp.min.js",
+  "version": "2.3.1",
+  "homepage": "https://github.com/tomaslin/stomp-websocket",
+  "authors": [
+    "Jeff Mesnil",
+    "Jeff Lindsay"
+  ],
+  "keywords": [
+    "stomp",
+    "websockets"
+  ],
+  "license": "APACHE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
